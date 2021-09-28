@@ -14,7 +14,7 @@
     user-select: none;
 }
 
-.todo-list-item.done .todo-list-item-label {
+.done {
     text-decoration: line-through;
 }
 
